@@ -4,6 +4,7 @@
  *
  *
  *  A simple code in C that states my name and college major
+ * @author ncorey2
 */
 #include <stdlib.h>
 #include <stdio.h>
